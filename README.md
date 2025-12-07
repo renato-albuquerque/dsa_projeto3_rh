@@ -82,3 +82,11 @@ As principais informações presentes são:
 Segue solução proposta, com as respostas solicitadas para a área de negócio.
 
 ![Dataviz solução projeto rh](files/dataviz_rh.PNG)
+
+[End]
+
+### 👍 Meus contatos
+- LinkedIn - [renato-malbuquerque](https://www.linkedin.com/in/renato-malbuquerque/)
+- GitHub - [renato-albuquerque](https://github.com/renato-albuquerque)
+- Discord - [Renato Albuquerque#0025](https://discordapp.com/users/992621595547938837)
+- Business Card - [Renato Albuquerque](https://rma-contacts.vercel.app/)
